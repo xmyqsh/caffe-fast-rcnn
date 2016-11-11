@@ -1,3 +1,9 @@
+
+fast-rcnn `upcompatible` with `caffe/master` for supporting the latest cuDNN
+5.1.5
+
+---
+
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
